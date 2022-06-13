@@ -1,0 +1,14 @@
+{
+  "name": "fruits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev-server": "static-server src"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "static-server": "^2.2.1"
+  }
+}
