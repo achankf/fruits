@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev-server": "static-server src"
+    "dev-server": "static-server docs"
   },
   "author": "",
   "license": "UNLICENSED",
